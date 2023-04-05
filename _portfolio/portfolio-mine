@@ -1,8 +1,9 @@
 ---
 title: "My Portfolio"
-excerpt: "This is my Portfolio Description<br/><img src='/images/SomersetSinkingStoryMap-500x300.png'>"
+excerpt: "Somerset County is Sinking StoryMap<br/><img src='/images/SomersetSinkingStoryMap-500x300.png'>"
 collection: portfolio
 ---
 
 This map is from an ArcGIS StoryMap that I collaborated on regarding sea level rise in Somerset County. We analyzed the effects of sea level rise on the erasure of Black
-historic sights throughout the county, and how historic racism has resulted in many sights in Somerset County under threat of being washed away.
+historic sights throughout the county, and how historic racism has resulted in many sights in Somerset County under threat of being washed away. The following link takes
+you to the full StoryMap https://storymaps.arcgis.com/stories/43e21481fa1642feb62e61f8d66e6af4
