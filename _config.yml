@@ -83,10 +83,10 @@ author:
   name             : "Sam Kefauver"
   avatar           : "profile.png"
   bio              : "University Student"
-  location         : "Location"
+  location         : "Union Bridge, Maryland"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -99,17 +99,17 @@ author:
   github           : "KefauverSam2023"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "kefauver_sam"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "sam-kefauver"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
