@@ -34,7 +34,7 @@ Skills
 * Geographic Information Systems software
   * ArcGIS Pro
   * QGIS
-* Limited experience in RStudio
+* RStudio
 
 Service and leadership
 ======
