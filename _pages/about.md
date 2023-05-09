@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+I am a dedicated and driven individual who is currently pursuing a Bachelor of Arts in Geography & Environmental Studies at the University of Maryland, Baltimore County, with an expected graduation in May 2023. With a GPA of 3.84.
+
 ### Skills
 
-I am a dedicated and driven individual who is currently pursuing a Bachelor of Arts in Geography & Environmental Studies at the University of Maryland, Baltimore County, with an expected graduation in May 2023. With a GPA of 3.84, I have excelled academically and have developed a strong skill set in Geographic Information Systems, including proficiency in ArcGIS Pro and QGIS, as well as gaining experience in the use of other software such as R-Studio, GitHub, Canva, and WordPress.
+I have excelled academically and have developed a strong skill set in Geographic Information Systems, including proficiency in ArcGIS Pro and QGIS, as well as gaining experience in the use of other software such as R-Studio, GitHub, Canva, and WordPress.
 
 As an avid learner, self-motivated, and responsible person, I consistently demonstrate a strong work ethic. I am never afraid to ask questions to better understand tasks at hand and I never shy away from asking for help if I come across something I lack experience in. I am a team player and enjoy collaborating with others on projects and I also thrive when working independently. I always work hard to exceed expectations and submit work well before my deadlines.
 
