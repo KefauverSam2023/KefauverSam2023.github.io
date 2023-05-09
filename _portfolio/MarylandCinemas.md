@@ -1,6 +1,6 @@
 ---
 title: "Cinema Web Map"
-excerpt: "Cinema Web Map<br/><img src='/images/MarylandCinemasWebmap-500x300.png'>"
+excerpt: "Maryland Cinema Distributions<br/><img src='/images/MarylandCinemasWebmap-500x300.png'>"
 collection: portfolio
 ---
 
