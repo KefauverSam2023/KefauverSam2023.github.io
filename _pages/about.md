@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a dedicated and driven individual who is currently pursuing a Bachelor of Arts in Geography & Environmental Studies at the University of Maryland, Baltimore County, with an expected graduation in May 2023. With a GPA of 3.84.
+I am a dedicated and driven individual who is currently pursuing a Bachelor of Arts in Geography & Environmental Studies at the University of Maryland, Baltimore County, with an expected graduation in May 2023, and a GPA of 3.84.
 
 ### Skills
 
