@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sam Kefauver's Portfolio"
 title_separator          : "-"
 name                     : &name "Sam Kefauver"
-description              : &description "UMBC Undergrad"
+description              : &description "UMBC Graduate"
 url                      : https://KefauverSam2023.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KefauverSam2023/KefauverSam2023.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sam Kefauver"
   avatar           : "profile.png"
-  bio              : "University Student"
+  bio              : "University Graduate"
   location         : "Union Bridge, Maryland"
   employer         :
   pubmed           : 
