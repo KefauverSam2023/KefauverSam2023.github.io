@@ -41,6 +41,6 @@ The results of this study suggest that healthy food access in Baltimore City cen
 
 ### Sources
 
-*GIS Geography. (2022, November 9). Spatial autocorrelation and Moran’s I in GIS. GIS Geography. https://gisgeography.com/spatial-autocorrelation-moran-i-gis/
-*Gripper, A. B., Nethery, R., Cowger, T. L., White, M., Kawachi, I., & Adamkiewicz, G. (2022). Community solutions to food apartheid: A spatial analysis of community food-growing spaces and neighborhood demographics in Philadelphia. Social science & medicine (1982), 310, 115221. https://doi.org/10.1016/j.socscimed.2022.115221
-*Johns Hopkins Center for a Livable Future. (2022). Maryland Food System Map. https://data-clf.hub.arcgis.com/search
+* GIS Geography. (2022, November 9). Spatial autocorrelation and Moran’s I in GIS. GIS Geography. https://gisgeography.com/spatial-autocorrelation-moran-i-gis/
+* Gripper, A. B., Nethery, R., Cowger, T. L., White, M., Kawachi, I., & Adamkiewicz, G. (2022). Community solutions to food apartheid: A spatial analysis of community food-growing spaces and neighborhood demographics in Philadelphia. Social science & medicine (1982), 310, 115221. https://doi.org/10.1016/j.socscimed.2022.115221
+* Johns Hopkins Center for a Livable Future. (2022). Maryland Food System Map. https://data-clf.hub.arcgis.com/search
