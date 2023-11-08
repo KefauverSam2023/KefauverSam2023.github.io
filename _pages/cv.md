@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.A. in Geography and Environmental Studies, University of Maryland-Baltimore County, 2023 (expected)
+* B.A. in Geography and Environmental Studies, University of Maryland-Baltimore County, 2023
 
 Work experience
 ======
