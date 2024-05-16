@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a dedicated and driven individual who has recently recieved a Bachelor of Arts in Geography & Environmental Studies at the University of Maryland, Baltimore County, as of May 2023 and with a GPA of 3.86.
+I am a dedicated and driven environmental advocate with a proven track record of leveraging creative strategies to address complex environmental challenges. With expertise in Geographic Information Systems (GIS) and a strong commitment to collaborative problem-solving, I am well equipped in my pursuit of excellence, particularly where it involves environmental and social stewardship.
 
 ### Skills
 
-I have excelled academically and have developed a strong skill set in Geographic Information Systems, including proficiency in ArcGIS Pro and QGIS, as well as gaining experience in the use of other software such as R-Studio, GitHub, Canva, and WordPress.
+Through my academic and professional achievements, I have developed a robust skill set in Geographic Information Systems, with proficiency in ArcGIS Pro, ArcGIS Online, ArcMap, and QGIS. Additionally, I have gained experience with various other software tools such as R-Studio, GitHub, Canva, and WordPress.
 
-As an avid learner, self-motivated, and responsible person, I consistently demonstrate a strong work ethic. I am never afraid to ask questions to better understand tasks at hand and I never shy away from asking for help if I come across something I lack experience in. I am a team player and enjoy collaborating with others on projects and I also thrive when working independently. I always work hard to exceed expectations and submit work well before my deadlines.
+As an avid and self-motivated learner, I consistently demonstrate a strong work ethic. I am never afraid to ask questions to better understand tasks and responsibilities, and I never shy away from asking for help if I come across an obstacle. I am a team player and enjoy collaborating with others on projects, yet I also thrive when working independently. I always work hard to exceed expectations and submit work well before my deadlines.
 
 ### Academic and Work Experience
 
