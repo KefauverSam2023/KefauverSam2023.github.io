@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sam Kefauver's Portfolio"
 title_separator          : "-"
 name                     : &name "Sam Kefauver"
-description              : &description "GIS Specialist"
+description              : &description "GIS Specialist 1"
 url                      : https://KefauverSam2023.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KefauverSam2023/KefauverSam2023.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Sam Kefauver"
   avatar           : "profile.png"
-  bio              : "GIS Specialist"
-  location         : "Westminster, Maryland"
+  bio              : "GIS Specialist 1"
+  location         : "Catonsville, Maryland"
   employer         :
   pubmed           : 
   googlescholar    : 
